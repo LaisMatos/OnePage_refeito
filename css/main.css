@@ -1,0 +1,9 @@
+.bgBege{
+    width: 100vw;
+    height: 100vh;
+    background-color:rgba(225, 203, 180, 1);
+    background-position:right;
+    display: flex;
+    flex-direction: column;
+    
+}
